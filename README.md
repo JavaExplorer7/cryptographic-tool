@@ -1,10 +1,10 @@
-# cryptographic-tool
+# Cryptographic Tool
 Desktop App for simply cryptographic use
 
-## Cryptography Hash Functions
+## Cryptographic Hash Functions
 ![hash](demo/hash.png)
 
-## Encryption & Decryption
+## Encryption & Decryption (Symmetric Cipher)
 ![encrypt-decrypt](demo/encrypt-decrypt.png)
 
 ## JCE Key Store
